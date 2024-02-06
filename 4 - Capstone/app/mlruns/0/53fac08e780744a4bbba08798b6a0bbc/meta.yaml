@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Me/Desktop/Advanced%20IBM%20Courser/4%20-%20Capstone/app/mlruns/0/53fac08e780744a4bbba08798b6a0bbc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53fac08e780744a4bbba08798b6a0bbc
+run_name: dazzling-fox-691
+run_uuid: 53fac08e780744a4bbba08798b6a0bbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706644420562
+status: 1
+tags: []
+user_id: Me

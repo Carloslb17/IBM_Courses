@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Me/Desktop/Advanced%20IBM%20Courser/4%20-%20Capstone/app/mlruns/0/7a7de026ccb4434e8c715628ed2a890d/artifacts
+end_time: 1706644494368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a7de026ccb4434e8c715628ed2a890d
+run_name: spiffy-elk-316
+run_uuid: 7a7de026ccb4434e8c715628ed2a890d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706644492992
+status: 3
+tags: []
+user_id: Me

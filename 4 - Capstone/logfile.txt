@@ -1,0 +1,3 @@
+2024-01-10 18:19:33 - Model: LinearRegression() | Iteration 1 |Performance: 0.2030766956224811 
+2024-01-10 18:19:34 - Model: LogisticRegression() | Iteration 1 |Performance: 0.965 
+2024-01-10 18:20:54 - Model: RandomForestClassifier() | Iteration 1 |Performance: 0.9836 

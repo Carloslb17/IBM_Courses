@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Me/Desktop/Advanced%20IBM%20Courser/4%20-%20Capstone/app/mlruns/0/50a54f84ed9947429ff74b78959ee621/artifacts
+end_time: 1706643134290
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50a54f84ed9947429ff74b78959ee621
+run_name: gentle-gull-17
+run_uuid: 50a54f84ed9947429ff74b78959ee621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706643134224
+status: 4
+tags: []
+user_id: Me

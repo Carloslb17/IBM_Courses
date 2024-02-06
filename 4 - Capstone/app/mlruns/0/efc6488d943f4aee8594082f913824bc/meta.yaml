@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Me/Desktop/Advanced%20IBM%20Courser/4%20-%20Capstone/app/mlruns/0/efc6488d943f4aee8594082f913824bc/artifacts
+end_time: 1706644078845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efc6488d943f4aee8594082f913824bc
+run_name: exp_1
+run_uuid: efc6488d943f4aee8594082f913824bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706643355142
+status: 3
+tags: []
+user_id: Me

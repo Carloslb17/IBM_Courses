@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Me/Desktop/Advanced%20IBM%20Courser/4%20-%20Capstone/app/mlruns/0/fcf733cd2fac47fe9863307737648ea4/artifacts
+end_time: 1706644420552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcf733cd2fac47fe9863307737648ea4
+run_name: treasured-sheep-868
+run_uuid: fcf733cd2fac47fe9863307737648ea4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706644418829
+status: 3
+tags: []
+user_id: Me

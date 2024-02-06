@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Me/Desktop/Advanced%20IBM%20Courser/4%20-%20Capstone/app/mlruns/0/06d2bf3943d94bbaa6ff288fcdb4f490/artifacts
+end_time: 1706643355488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06d2bf3943d94bbaa6ff288fcdb4f490
+run_name: traveling-snipe-547
+run_uuid: 06d2bf3943d94bbaa6ff288fcdb4f490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706643355217
+status: 4
+tags: []
+user_id: Me

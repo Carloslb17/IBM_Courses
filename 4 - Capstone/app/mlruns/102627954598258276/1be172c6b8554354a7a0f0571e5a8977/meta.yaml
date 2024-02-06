@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/102627954598258276/1be172c6b8554354a7a0f0571e5a8977/artifacts
+end_time: 1706651490573
+entry_point_name: ''
+experiment_id: '102627954598258276'
+lifecycle_stage: active
+run_id: 1be172c6b8554354a7a0f0571e5a8977
+run_name: nebulous-ox-314
+run_uuid: 1be172c6b8554354a7a0f0571e5a8977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706651476945
+status: 3
+tags: []
+user_id: Me

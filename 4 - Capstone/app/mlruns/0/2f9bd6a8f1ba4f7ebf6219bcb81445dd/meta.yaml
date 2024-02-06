@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Me/Desktop/Advanced%20IBM%20Courser/4%20-%20Capstone/app/mlruns/0/2f9bd6a8f1ba4f7ebf6219bcb81445dd/artifacts
+end_time: 1706643067651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f9bd6a8f1ba4f7ebf6219bcb81445dd
+run_name: amusing-shad-338
+run_uuid: 2f9bd6a8f1ba4f7ebf6219bcb81445dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706643067555
+status: 4
+tags: []
+user_id: Me

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Me/Desktop/Advanced%20IBM%20Courser/4%20-%20Capstone/app/mlruns/0/8552f7dec7ad4cb98683218d6302eb38/artifacts
+end_time: 1706643225711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8552f7dec7ad4cb98683218d6302eb38
+run_name: stately-bee-952
+run_uuid: 8552f7dec7ad4cb98683218d6302eb38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706643225421
+status: 4
+tags: []
+user_id: Me

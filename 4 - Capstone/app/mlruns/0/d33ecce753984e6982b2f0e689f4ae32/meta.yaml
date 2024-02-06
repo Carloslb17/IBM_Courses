@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Me/Desktop/Advanced%20IBM%20Courser/4%20-%20Capstone/app/mlruns/0/d33ecce753984e6982b2f0e689f4ae32/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d33ecce753984e6982b2f0e689f4ae32
+run_name: skillful-bear-470
+run_uuid: d33ecce753984e6982b2f0e689f4ae32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706644494383
+status: 1
+tags: []
+user_id: Me
